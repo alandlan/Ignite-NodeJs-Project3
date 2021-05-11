@@ -27,3 +27,13 @@
 * "ts-node-dev": "^1.1.6",
 * "typescript": "^4.2.4"
 
+#### Configuração do ESLint
+**https://www.notion.so/ESLint-e-Prettier-Trilha-Node-js-d3f3ef576e7f45dfbbde5c25fa662779#eaf6e8bdcabc4d809cdae302e29750da**
+**https://eslint.org/docs/2.0.0/user-guide/configuring**
+
+#### Configuração do Prettier
+**https://www.notion.so/ESLint-e-Prettier-Trilha-Node-js-d3f3ef576e7f45dfbbde5c25fa662779#eaf6e8bdcabc4d809cdae302e29750da**
+**https://prettier.io/docs/en/configuration.html**
+
+#### Configuração do TypeORM with PostgreSQL
+**https://typeorm.io/#/**
