@@ -10,9 +10,7 @@ class CategoriesRepository implements ICategoriesRespository {
   private repository: Repository<Category>;
 
   constructor() {
-    console.log("aqui");
     this.repository = getRepository(Category);
-    console.log("aqui2");
   }
 
   async create({ name, description }: ICreateCategoryDTO): Promise<void> {
